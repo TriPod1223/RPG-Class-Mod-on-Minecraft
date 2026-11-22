@@ -1,0 +1,6 @@
+{
+  "pvpDamageMultiplier": 0.5,
+  "classPvp.pvpFactorSpellbreaker": 1.2,
+  "abilityDamageMultiplier": 1.1,
+  "fxMaxPerTick": 128
+}
